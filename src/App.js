@@ -7,7 +7,7 @@ function App() {
     <div>
       <h1>Start React 200!</h1>
       <p>CSS 적용하기</p>
-      <Variable/>
+      <SpreadOperator/>
     </div>
   );
 }
